@@ -1,6 +1,6 @@
 # ts-starter
 
-Typescript lib starter.
+Typescript project starter.
 
 ## Usage
 

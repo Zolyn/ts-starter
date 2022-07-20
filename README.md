@@ -1,6 +1,6 @@
 # ts-starter
 
-Typescript project starter.
+Typescript project starter. (CLI, Pure ESM)
 
 ## Usage
 

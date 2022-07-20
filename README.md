@@ -7,7 +7,7 @@ Typescript project starter.
 ### Via [Charon](https://github.com/Zolyn/Charon)
 
 ```bash
-charon -t Zolyn/ts-starter
+charon -t Zolyn/ts-starter#cli
 ```
 
 ## License

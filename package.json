@@ -16,15 +16,11 @@
   "license": "MIT",
   "author": "Yumeoto Zorin <zorin1477@gmail.com>",
   "sideEffects": false,
-  "exports": {
-    ".": {
-      "import": "./dist/index.mjs",
-      "require": "./dist/index.cjs"
-    }
-  },
-  "main": "./dist/index.cjs",
+  "exports": "./dist/index.mjs",
+  "main": "./dist/index.mjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "bin": "./dist/cli.mjs",
   "files": [
     "dist"
   ],
@@ -48,7 +44,9 @@
   },
   "dependencies": {
     "@zolyn/utils": "^1.0.1",
-    "debug": "^4.3.4"
+    "cac": "^6.7.12",
+    "debug": "^4.3.4",
+    "update-notifier": "^6.0.2"
   },
   "devDependencies": {
     "@antfu/ni": "0.17.2",
@@ -56,6 +54,7 @@
     "@commitlint/config-conventional": "^17.0.3",
     "@types/debug": "^4.1.7",
     "@types/node": "^18.0.4",
+    "@types/update-notifier": "^6.0.1",
     "@zolyn/changelogithub": "0.12.0",
     "@zolyn/cz-conventional-changelog": "^1.0.1",
     "@zolyn/eslint-config": "^1.1.0",

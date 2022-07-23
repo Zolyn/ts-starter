@@ -1,6 +1,7 @@
 {
   "name": "ts-starter",
   "version": "1.0.0",
+  "private": true,
   "description": "Typescript project starter.",
   "keywords": [
     "lib"

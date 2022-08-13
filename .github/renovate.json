@@ -1,3 +1,4 @@
 {
-    "extends": ["github>Zolyn/renovate-config"]
+    "extends": ["github>Zolyn/renovate-config"],
+    "baseBranches": ["main", "cli", "buildless"]
 }

@@ -20,7 +20,7 @@ jobs:
           registry-url: https://registry.npmjs.org/
           node-version: 16.x
 
-      - name: Setup
+      - name: Setup ni
         run: npm i -g @antfu/ni
 
       - name: Install

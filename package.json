@@ -54,7 +54,7 @@
     "debug": "^4.3.4"
   },
   "devDependencies": {
-    "@antfu/ni": "0.17.2",
+    "@antfu/ni": "0.18.0",
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
     "@types/debug": "^4.1.7",

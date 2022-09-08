@@ -58,8 +58,8 @@
     "@types/debug": "^4.1.7",
     "@types/node": "^18.0.4",
     "@types/update-notifier": "^6.0.1",
-    "@vitest/coverage-c8": "^0.22.0",
-    "@vitest/ui": "^0.22.0",
+    "@vitest/coverage-c8": "^0.23.0",
+    "@vitest/ui": "^0.23.0",
     "@zolyn/changelogithub": "0.12.0",
     "@zolyn/cz-conventional-changelog": "^1.0.1",
     "@zolyn/eslint-config": "^1.1.0",
@@ -73,6 +73,6 @@
     "sort-package-json": "^1.57.0",
     "typescript": "^4.7.4",
     "unbuild": "^0.8.0",
-    "vitest": "^0.22.0"
+    "vitest": "^0.23.0"
   }
 }
